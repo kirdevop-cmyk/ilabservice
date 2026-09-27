@@ -1,0 +1,249 @@
+# iLAB — ремонт техніки Apple у Харкові
+> Незалежний сервісний центр Apple у Харкові. Ремонтуємо 147 моделей iPhone, iPad, Apple Watch і MacBook на рівні компонентів: від заміни дисплея до мікропайки материнської плати. У кожної моделі — окрема сторінка з переліком робіт, строками й цінами.
+## З області — поштою
+Пристрій можна надіслати Новою поштою з усієї Харківської області: Чугуїв, Люботин, Мерефа, Дергачі, Золочів, Богодухів, Валки, Красноград, Зміїв, Первомайський та інші міста. Діагностика безкоштовна, точну ціну кажемо телефоном до початку робіт, гарантія 6 місяців така сама, як при особистому візиті. Докладно: https://www.ilabservice.top/remont-apple-kharkivska-oblast
+## Прайс одним файлом
+Повний прайс по всіх 147 моделях у машиночитному вигляді: https://www.ilabservice.top/tsiny.md — таблиці «модель × робота», ціни в гривнях, дата оновлення в шапці файла.
+## Як нас шукають
+У Харкові ці пристрої частіше називають кирилицею. Це одне й те саме: айфон = iPhone, айпад = iPad, макбук = MacBook, епл вотч = Apple Watch. Запити на кшталт «ремонт айфона у Харкові», «поміняти екран на айфоні 13», «макбук не вмикається» стосуються цього сервісу.
+## Коротко
+- Адреса: майдан Захисників України, 4, Харків, 61000
+- На карті: https://www.google.com/maps/search/?api=1&query=49.987267,36.261
+- Телефон: +380 66 166 16 54
+- Telegram: @ilabapple (https://t.me/ilabapple)
+- Графік: Пн–Пт 10:00–19:00 · Сб 10:00–17:00
+- Діагностика: безкоштовна, до 30 хвилин
+- Строк ремонту: від 30 хвилин
+- Гарантія: 6 місяців
+- Статус: незалежний сервіс, не авторизований партнер Apple Inc.
+- Сайт: https://www.ilabservice.top/
+- Російська версія: https://www.ilabservice.top/ru
+## Скільки коштує ремонт iPhone у Харкові
+| Модель | Заміна дисплея | Заміна акумулятора | Ремонт роз’єму |
+|---|---|---|---|
+| iPhone 15 Pro Max | 3 400 ₴ | 1 600 ₴ | 1 400 ₴ |
+| iPhone 14 Pro | 3 100 ₴ | 1 500 ₴ | 1 300 ₴ |
+| iPhone 13 | 2 250 ₴ | 1 050 ₴ | 950 ₴ |
+| iPhone 12 | 2 250 ₴ | 1 050 ₴ | 950 ₴ |
+| iPhone 11 | 1 800 ₴ | 850 ₴ | 750 ₴ |
+| iPhone XR | 1 800 ₴ | 850 ₴ | 750 ₴ |
+| iPhone 8 | 1 550 ₴ | 700 ₴ | 650 ₴ |
+Ціни орієнтовні, у гривнях, актуальні на 2026-09-24. Точна сума — після безкоштовної діагностики, до початку робіт.
+## Які роботи виконуємо
+- **Заміна дисплея** — Модуль у зборі, з тестом на биті пікселі, засвіти та тач.
+- **Заміна скла** — Переклейка захисного скла на робочу матрицю — дешевше за модуль.
+- **Заміна акумулятора** — Нова батарея з коректним показником ємності у налаштуваннях.
+- **Заміна заднього скла** — Задня кришка зі скла: лазерне зняття без пошкодження антен і бездротової зарядки.
+- **Заміна корпусу** — Переносимо всі вузли в новий корпус і перевіряємо збірку по периметру.
+- **Заміна камери** — Основний або фронтальний модуль, з калібруванням.
+- **Ремонт камери** — Скло об’єктива, шлейф, автофокус, стабілізація.
+- **Ремонт Face ID** — Відновлення крапкового проєктора та Dot Projector-шлейфа.
+- **Ремонт Touch ID** — Сканер відбитка у кнопці Home або у верхній кнопці.
+- **Ремонт роз’єму зарядки** — Чистка або заміна нижнього шлейфа Lightning / USB-C / MagSafe.
+- **Ремонт динаміка** — Розмовний і поліфонічний динамік, сітка, шлейф.
+- **Ремонт мікрофона** — Вас не чують у дзвінках чи Voice Memo — лікуємо.
+- **Ремонт кнопок** — Живлення, гучність, беззвучний режим, Home.
+- **Заміна клавіатури** — Топкейс у зборі або окремі клавіші, включно з «метеликом».
+- **Чистка та заміна термопасти** — Профілактика від пилу, нова паста і термопрокладки.
+- **Апгрейд SSD та пам’яті** — Збільшення накопичувача на моделях, де це фізично можливо.
+- **Ремонт петель і шлейфа кришки** — Люфт кришки, згасання підсвітки, злам петлі.
+- **Ремонт після падіння** — Комплексна діагностика наслідків удару, а не лише скла.
+- **Ремонт після потрапляння вологи** — Ультразвукова чистка плати від корозії протягом доби після залиття.
+- **Ремонт материнської плати** — Мікропайка під мікроскопом замість заміни материнської плати: реболінг, заміна контролерів.
+- **Програмний ремонт** — Прошивка й перепрошивка: вічне яблуко, цикл перезавантажень, помилки оновлення.
+- **Діагностика** — Повна перевірка за 30 хвилин. Безкоштовно перед ремонтом.
+## Категорії
+- [Ремонт iPhone у Харкові](https://www.ilabservice.top/remont-iphone) — 36 моделей
+- [Ремонт iPad у Харкові](https://www.ilabservice.top/remont-ipad) — 28 моделей
+- [Ремонт Apple Watch у Харкові](https://www.ilabservice.top/remont-apple-watch) — 26 моделей
+- [Ремонт MacBook у Харкові](https://www.ilabservice.top/remont-macbook) — 57 моделей
+- [Каталог](https://www.ilabservice.top/katalog)
+- [Ціни](https://www.ilabservice.top/tsiny)
+- [Контакти](https://www.ilabservice.top/kontakty)
+## Послуги — окрема сторінка на кожну
+- [Заміна дисплея iPhone у Харкові](https://www.ilabservice.top/zamina-dyspleya-iphone) — від 1 550 ₴
+- [Заміна акумулятора iPhone у Харкові](https://www.ilabservice.top/zamina-akumulyatora-iphone) — від 700 ₴
+- [Ремонт роз’єму зарядки iPhone у Харкові](https://www.ilabservice.top/remont-rozyemu-zaryadky-iphone) — від 650 ₴
+- [Заміна корпусу iPhone у Харкові](https://www.ilabservice.top/zamina-korpusu-iphone) — ціна після діагностики
+- [Ремонт після потрапляння вологи iPhone у Харкові](https://www.ilabservice.top/remont-pislya-vody-iphone) — від 1 000 ₴
+- [Ремонт материнської плати iPhone у Харкові](https://www.ilabservice.top/remont-materynskoyi-platy-iphone) — від 1 600 ₴
+- [Діагностика iPhone у Харкові](https://www.ilabservice.top/diahnostyka-iphone) — безкоштовно
+- [Заміна скла iPhone у Харкові](https://www.ilabservice.top/zamina-skla-iphone) — від 1 050 ₴
+- [Заміна заднього скла iPhone у Харкові](https://www.ilabservice.top/zamina-zadnoho-skla-iphone) — від 950 ₴
+- [Ремонт Face ID iPhone у Харкові](https://www.ilabservice.top/remont-face-id-iphone) — від 1 350 ₴
+- [Заміна камери iPhone у Харкові](https://www.ilabservice.top/zamina-kamery-iphone) — від 1 000 ₴
+- [Програмний ремонт iPhone у Харкові](https://www.ilabservice.top/prohramnyi-remont-iphone) — від 450 ₴
+- [Заміна дисплея iPad у Харкові](https://www.ilabservice.top/zamina-dyspleya-ipad) — від 1 550 ₴
+- [Заміна акумулятора iPad у Харкові](https://www.ilabservice.top/zamina-akumulyatora-ipad) — від 900 ₴
+- [Ремонт роз’єму зарядки iPad у Харкові](https://www.ilabservice.top/remont-rozyemu-zaryadky-ipad) — від 600 ₴
+- [Заміна корпусу iPad у Харкові](https://www.ilabservice.top/zamina-korpusu-ipad) — ціна після діагностики
+- [Ремонт після потрапляння вологи iPad у Харкові](https://www.ilabservice.top/remont-pislya-vody-ipad) — від 1 050 ₴
+- [Ремонт материнської плати iPad у Харкові](https://www.ilabservice.top/remont-materynskoyi-platy-ipad) — від 1 550 ₴
+- [Діагностика iPad у Харкові](https://www.ilabservice.top/diahnostyka-ipad) — безкоштовно
+- [Заміна дисплея Apple Watch у Харкові](https://www.ilabservice.top/zamina-dyspleya-apple-watch) — від 1 600 ₴
+- [Заміна акумулятора Apple Watch у Харкові](https://www.ilabservice.top/zamina-akumulyatora-apple-watch) — від 950 ₴
+- [Ремонт після потрапляння вологи Apple Watch у Харкові](https://www.ilabservice.top/remont-pislya-vody-apple-watch) — від 1 200 ₴
+- [Ремонт материнської плати Apple Watch у Харкові](https://www.ilabservice.top/remont-materynskoyi-platy-apple-watch) — від 1 700 ₴
+- [Діагностика Apple Watch у Харкові](https://www.ilabservice.top/diahnostyka-apple-watch) — безкоштовно
+- [Заміна дисплея MacBook у Харкові](https://www.ilabservice.top/zamina-dyspleya-macbook) — від 5 750 ₴
+- [Заміна акумулятора MacBook у Харкові](https://www.ilabservice.top/zamina-akumulyatora-macbook) — від 2 250 ₴
+- [Ремонт роз’єму зарядки MacBook у Харкові](https://www.ilabservice.top/remont-rozyemu-zaryadky-macbook) — від 1 700 ₴
+- [Заміна корпусу MacBook у Харкові](https://www.ilabservice.top/zamina-korpusu-macbook) — ціна після діагностики
+- [Ремонт після потрапляння вологи MacBook у Харкові](https://www.ilabservice.top/remont-pislya-vody-macbook) — від 2 400 ₴
+- [Ремонт материнської плати MacBook у Харкові](https://www.ilabservice.top/remont-materynskoyi-platy-macbook) — від 3 350 ₴
+- [Діагностика MacBook у Харкові](https://www.ilabservice.top/diahnostyka-macbook) — безкоштовно
+## Статті
+- [Скільки коштує замінити акумулятор на айфоні у Харкові](https://www.ilabservice.top/statti/zamina-akumulyatora-ayfona-tsina) — Заміна акумулятора iPhone коштує від 700 ₴ і займає 30–60 хвилин, зазвичай при вас.
+- [Оригінал чи аналог: який дисплей ставити на айфон](https://www.ilabservice.top/statti/oryhinal-chy-analoh-dysplei-ayfona) — Обидва варіанти робочі, різниця — у ціні, яскравості й поведінці True Tone.
+- [Айфон упав у воду: що робити в першу годину](https://www.ilabservice.top/statti/ayfon-upav-u-vodu-shcho-robyty) — Вимкніть телефон, не заряджайте його і не сушіть у рисі чи феном.
+## Усі моделі
+- [Ремонт iPhone 17 Pro Max у Харкові](https://www.ilabservice.top/remont-iphone-17-pro-max) — 2025, A19 Pro
+- [Ремонт iPhone 17 Pro у Харкові](https://www.ilabservice.top/remont-iphone-17-pro) — 2025, A19 Pro
+- [Ремонт iPhone Air у Харкові](https://www.ilabservice.top/remont-iphone-air) — 2025, A19 Pro
+- [Ремонт iPhone 17 у Харкові](https://www.ilabservice.top/remont-iphone-17) — 2025, A19
+- [Ремонт iPhone 16 Pro Max у Харкові](https://www.ilabservice.top/remont-iphone-16-pro-max) — 2024, A18 Pro
+- [Ремонт iPhone 16 Pro у Харкові](https://www.ilabservice.top/remont-iphone-16-pro) — 2024, A18 Pro
+- [Ремонт iPhone 16 Plus у Харкові](https://www.ilabservice.top/remont-iphone-16-plus) — 2024, A18
+- [Ремонт iPhone 16 у Харкові](https://www.ilabservice.top/remont-iphone-16) — 2024, A18
+- [Ремонт iPhone 16e у Харкові](https://www.ilabservice.top/remont-iphone-16e) — 2025, A18
+- [Ремонт iPhone 15 Pro Max у Харкові](https://www.ilabservice.top/remont-iphone-15-pro-max) — 2023, A17 Pro
+- [Ремонт iPhone 15 Pro у Харкові](https://www.ilabservice.top/remont-iphone-15-pro) — 2023, A17 Pro
+- [Ремонт iPhone 15 Plus у Харкові](https://www.ilabservice.top/remont-iphone-15-plus) — 2023, A16
+- [Ремонт iPhone 15 у Харкові](https://www.ilabservice.top/remont-iphone-15) — 2023, A16
+- [Ремонт iPhone 14 Pro Max у Харкові](https://www.ilabservice.top/remont-iphone-14-pro-max) — 2022, A16
+- [Ремонт iPhone 14 Pro у Харкові](https://www.ilabservice.top/remont-iphone-14-pro) — 2022, A16
+- [Ремонт iPhone 14 Plus у Харкові](https://www.ilabservice.top/remont-iphone-14-plus) — 2022, A15
+- [Ремонт iPhone 14 у Харкові](https://www.ilabservice.top/remont-iphone-14) — 2022, A15
+- [Ремонт iPhone 13 Pro Max у Харкові](https://www.ilabservice.top/remont-iphone-13-pro-max) — 2021, A15
+- [Ремонт iPhone 13 Pro у Харкові](https://www.ilabservice.top/remont-iphone-13-pro) — 2021, A15
+- [Ремонт iPhone 13 у Харкові](https://www.ilabservice.top/remont-iphone-13) — 2021, A15
+- [Ремонт iPhone 13 mini у Харкові](https://www.ilabservice.top/remont-iphone-13-mini) — 2021, A15
+- [Ремонт iPhone 12 Pro Max у Харкові](https://www.ilabservice.top/remont-iphone-12-pro-max) — 2020, A14
+- [Ремонт iPhone 12 Pro у Харкові](https://www.ilabservice.top/remont-iphone-12-pro) — 2020, A14
+- [Ремонт iPhone 12 у Харкові](https://www.ilabservice.top/remont-iphone-12) — 2020, A14
+- [Ремонт iPhone 12 mini у Харкові](https://www.ilabservice.top/remont-iphone-12-mini) — 2020, A14
+- [Ремонт iPhone 11 Pro Max у Харкові](https://www.ilabservice.top/remont-iphone-11-pro-max) — 2019, A13
+- [Ремонт iPhone 11 Pro у Харкові](https://www.ilabservice.top/remont-iphone-11-pro) — 2019, A13
+- [Ремонт iPhone 11 у Харкові](https://www.ilabservice.top/remont-iphone-11) — 2019, A13
+- [Ремонт iPhone SE 2 2020 у Харкові](https://www.ilabservice.top/remont-iphone-se-2-2020) — 2020, A13
+- [Ремонт iPhone XS Max у Харкові](https://www.ilabservice.top/remont-iphone-xs-max) — 2018, A12
+- [Ремонт iPhone XS у Харкові](https://www.ilabservice.top/remont-iphone-xs) — 2018, A12
+- [Ремонт iPhone XR у Харкові](https://www.ilabservice.top/remont-iphone-xr) — 2018, A12
+- [Ремонт iPhone X у Харкові](https://www.ilabservice.top/remont-iphone-x) — 2017, A11
+- [Ремонт iPhone 8 Plus у Харкові](https://www.ilabservice.top/remont-iphone-8-plus) — 2017, A11
+- [Ремонт iPhone 8 у Харкові](https://www.ilabservice.top/remont-iphone-8) — 2017, A11
+- [Ремонт iPhone 7 Plus у Харкові](https://www.ilabservice.top/remont-iphone-7-plus) — 2016, A10
+- [Ремонт iPad Pro 12.9" M2 (2022) у Харкові](https://www.ilabservice.top/remont-ipad-pro-12-9-m2-2022) — 2022, M2
+- [Ремонт iPad Pro 11" M2 (2022) у Харкові](https://www.ilabservice.top/remont-ipad-pro-11-m2-2022) — 2022, M2
+- [Ремонт iPad Pro 12.9" M1 (2021) у Харкові](https://www.ilabservice.top/remont-ipad-pro-12-9-m1-2021) — 2021, M1
+- [Ремонт iPad Pro 11" M1 (2021) у Харкові](https://www.ilabservice.top/remont-ipad-pro-11-m1-2021) — 2021, M1
+- [Ремонт iPad Pro 11" (2020) у Харкові](https://www.ilabservice.top/remont-ipad-pro-11-2020) — 2020, A12Z
+- [Ремонт iPad Pro 12.9" (2020) у Харкові](https://www.ilabservice.top/remont-ipad-pro-12-9-2020) — 2020, A12Z
+- [Ремонт iPad Pro 10.2" (2019) у Харкові](https://www.ilabservice.top/remont-ipad-pro-10-2-2019) — 2019, A10
+- [Ремонт iPad Pro 12.9" (2018) у Харкові](https://www.ilabservice.top/remont-ipad-pro-12-9-2018) — 2018, A12X
+- [Ремонт iPad Pro 11" (2019) у Харкові](https://www.ilabservice.top/remont-ipad-pro-11-2019) — 2019, A12X
+- [Ремонт iPad Pro 12.9" (2017) у Харкові](https://www.ilabservice.top/remont-ipad-pro-12-9-2017) — 2017, A10X
+- [Ремонт iPad Pro 10.5" (2017) у Харкові](https://www.ilabservice.top/remont-ipad-pro-10-5-2017) — 2017, A10X
+- [Ремонт iPad Pro 9.7" (2016) у Харкові](https://www.ilabservice.top/remont-ipad-pro-9-7-2016) — 2016, A9X
+- [Ремонт iPad Pro 12.9" (2015) у Харкові](https://www.ilabservice.top/remont-ipad-pro-12-9-2015) — 2015, A9X
+- [Ремонт iPad Air 5 M1 (2022) у Харкові](https://www.ilabservice.top/remont-ipad-air-5-m1-2022) — 2022, M1
+- [Ремонт iPad Air 4 (2020) у Харкові](https://www.ilabservice.top/remont-ipad-air-4-2020) — 2020, A14
+- [Ремонт iPad Air 2 (2014) у Харкові](https://www.ilabservice.top/remont-ipad-air-2-2014) — 2014, A8X
+- [Ремонт iPad Air (2013) у Харкові](https://www.ilabservice.top/remont-ipad-air-2013) — 2013, A7
+- [Ремонт iPad mini 6 (2021) у Харкові](https://www.ilabservice.top/remont-ipad-mini-6-2021) — 2021, A15
+- [Ремонт iPad mini 4 (2015) у Харкові](https://www.ilabservice.top/remont-ipad-mini-4-2015) — 2015, A8
+- [Ремонт iPad mini 3 (2014) у Харкові](https://www.ilabservice.top/remont-ipad-mini-3-2014) — 2014, A7
+- [Ремонт iPad mini 2 (2013) у Харкові](https://www.ilabservice.top/remont-ipad-mini-2-2013) — 2013, A7
+- [Ремонт iPad mini (2012) у Харкові](https://www.ilabservice.top/remont-ipad-mini-2012) — 2012, A5
+- [Ремонт iPad 10 10.9" (2022) у Харкові](https://www.ilabservice.top/remont-ipad-10-10-9-2022) — 2022, A14
+- [Ремонт iPad 9 10.2" (2021) у Харкові](https://www.ilabservice.top/remont-ipad-9-10-2-2021) — 2021, A13
+- [Ремонт iPad 8 10.2" (2020) у Харкові](https://www.ilabservice.top/remont-ipad-8-10-2-2020) — 2020, A12
+- [Ремонт iPad 9.7" (2018) у Харкові](https://www.ilabservice.top/remont-ipad-9-7-2018) — 2018, A10
+- [Ремонт iPad 5 (2017) у Харкові](https://www.ilabservice.top/remont-ipad-5-2017) — 2017, A9
+- [Ремонт iPad 4 (2012) у Харкові](https://www.ilabservice.top/remont-ipad-4-2012) — 2012, A6X
+- [Ремонт Apple Watch Series 10 46mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-10-46mm) — 2024, S10
+- [Ремонт Apple Watch Series 10 42mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-10-42mm) — 2024, S10
+- [Ремонт Apple Watch Ultra 2 у Харкові](https://www.ilabservice.top/remont-apple-watch-ultra-2) — 2023, S9
+- [Ремонт Apple Watch Ultra у Харкові](https://www.ilabservice.top/remont-apple-watch-ultra) — 2022, S8
+- [Ремонт Apple Watch Series 9 45mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-9-45mm) — 2023, S9
+- [Ремонт Apple Watch Series 9 41mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-9-41mm) — 2023, S9
+- [Ремонт Apple Watch SE 2 40mm у Харкові](https://www.ilabservice.top/remont-apple-watch-se-2-40mm) — 2022, S8
+- [Ремонт Apple Watch SE 2 44mm у Харкові](https://www.ilabservice.top/remont-apple-watch-se-2-44mm) — 2022, S8
+- [Ремонт Apple Watch SE 44mm у Харкові](https://www.ilabservice.top/remont-apple-watch-se-44mm) — 2020, S5
+- [Ремонт Apple Watch SE 40mm у Харкові](https://www.ilabservice.top/remont-apple-watch-se-40mm) — 2020, S5
+- [Ремонт Apple Watch Series 8 41mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-8-41mm) — 2022, S8
+- [Ремонт Apple Watch Series 8 45mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-8-45mm) — 2022, S8
+- [Ремонт Apple Watch Series 7 45mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-7-45mm) — 2021, S7
+- [Ремонт Apple Watch Series 7 41mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-7-41mm) — 2021, S7
+- [Ремонт Apple Watch Series 6 44mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-6-44mm) — 2020, S6
+- [Ремонт Apple Watch Series 6 40mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-6-40mm) — 2020, S6
+- [Ремонт Apple Watch Series 5 44mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-5-44mm) — 2019, S5
+- [Ремонт Apple Watch Series 5 40mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-5-40mm) — 2019, S5
+- [Ремонт Apple Watch Series 4 44mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-4-44mm) — 2018, S4
+- [Ремонт Apple Watch Series 4 40mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-4-40mm) — 2018, S4
+- [Ремонт Apple Watch Series 3 42mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-3-42mm) — 2017, S3
+- [Ремонт Apple Watch Series 3 38mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-3-38mm) — 2017, S3
+- [Ремонт Apple Watch Series 2 42mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-2-42mm) — 2016, S2
+- [Ремонт Apple Watch Series 2 38mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-2-38mm) — 2016, S2
+- [Ремонт Apple Watch Series 1 42mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-1-42mm) — 2016, S1P
+- [Ремонт Apple Watch Series 1 38mm у Харкові](https://www.ilabservice.top/remont-apple-watch-series-1-38mm) — 2016, S1P
+- [Ремонт MacBook Air 15" M3 2024 у Харкові](https://www.ilabservice.top/remont-macbook-air-15-m3-2024) — 2024, M3
+- [Ремонт MacBook Air 13" M3 2024 у Харкові](https://www.ilabservice.top/remont-macbook-air-13-m3-2024) — 2024, M3
+- [Ремонт MacBook Air 15" M2 2023 у Харкові](https://www.ilabservice.top/remont-macbook-air-15-m2-2023) — 2023, M2
+- [Ремонт MacBook Air 13" M2 2022 у Харкові](https://www.ilabservice.top/remont-macbook-air-13-m2-2022) — 2022, M2
+- [Ремонт MacBook Air 13" M1 2020 у Харкові](https://www.ilabservice.top/remont-macbook-air-13-m1-2020) — 2020, M1
+- [Ремонт MacBook Air 13" 2020 у Харкові](https://www.ilabservice.top/remont-macbook-air-13-2020) — 2020, Intel Core i3/i5
+- [Ремонт MacBook Air Retina 13" 2019 у Харкові](https://www.ilabservice.top/remont-macbook-air-retina-13-2019) — 2019, Intel Core i5
+- [Ремонт MacBook Air Retina 13" 2018 у Харкові](https://www.ilabservice.top/remont-macbook-air-retina-13-2018) — 2018, Intel Core i5
+- [Ремонт MacBook Air 13" 2017 у Харкові](https://www.ilabservice.top/remont-macbook-air-13-2017) — 2017, Intel Core i5
+- [Ремонт MacBook Air 13" Early 2015 у Харкові](https://www.ilabservice.top/remont-macbook-air-13-early-2015) — 2015, Intel Core i5
+- [Ремонт MacBook Air 11" Early 2015 у Харкові](https://www.ilabservice.top/remont-macbook-air-11-early-2015) — 2015, Intel Core i5
+- [Ремонт MacBook Air 13" Early 2014 у Харкові](https://www.ilabservice.top/remont-macbook-air-13-early-2014) — 2014, Intel Core i5
+- [Ремонт MacBook Air 11" Early 2014 у Харкові](https://www.ilabservice.top/remont-macbook-air-11-early-2014) — 2014, Intel Core i5
+- [Ремонт MacBook Air 13" Mid 2013 у Харкові](https://www.ilabservice.top/remont-macbook-air-13-mid-2013) — 2013, Intel Core i5
+- [Ремонт MacBook Air 11" Mid 2013 у Харкові](https://www.ilabservice.top/remont-macbook-air-11-mid-2013) — 2013, Intel Core i5
+- [Ремонт MacBook Air 13" Mid 2012 у Харкові](https://www.ilabservice.top/remont-macbook-air-13-mid-2012) — 2012, Intel Core i5
+- [Ремонт MacBook Air 11" Mid 2012 у Харкові](https://www.ilabservice.top/remont-macbook-air-11-mid-2012) — 2012, Intel Core i5
+- [Ремонт MacBook Air 11" Mid 2011 у Харкові](https://www.ilabservice.top/remont-macbook-air-11-mid-2011) — 2011, Intel Core i5
+- [Ремонт MacBook Air 13" Mid 2011 у Харкові](https://www.ilabservice.top/remont-macbook-air-13-mid-2011) — 2011, Intel Core i5
+- [Ремонт MacBook Pro 16" M4 Max 2024 у Харкові](https://www.ilabservice.top/remont-macbook-pro-16-m4-max-2024) — 2024, M4 Max
+- [Ремонт MacBook Pro 16" M4 Pro 2024 у Харкові](https://www.ilabservice.top/remont-macbook-pro-16-m4-pro-2024) — 2024, M4 Pro
+- [Ремонт MacBook Pro 14" M4 Pro 2024 у Харкові](https://www.ilabservice.top/remont-macbook-pro-14-m4-pro-2024) — 2024, M4 Pro
+- [Ремонт MacBook Pro 14" M4 2024 у Харкові](https://www.ilabservice.top/remont-macbook-pro-14-m4-2024) — 2024, M4
+- [Ремонт MacBook Pro 16" M3 Pro/Max 2023 у Харкові](https://www.ilabservice.top/remont-macbook-pro-16-m3-pro-max-2023) — 2023, M3 Pro / M3 Max
+- [Ремонт MacBook Pro 14" M3 Pro/Max 2023 у Харкові](https://www.ilabservice.top/remont-macbook-pro-14-m3-pro-max-2023) — 2023, M3 Pro / M3 Max
+- [Ремонт MacBook Pro 14" M3 2023 у Харкові](https://www.ilabservice.top/remont-macbook-pro-14-m3-2023) — 2023, M3
+- [Ремонт MacBook Pro 16" M2 Pro/Max 2023 у Харкові](https://www.ilabservice.top/remont-macbook-pro-16-m2-pro-max-2023) — 2023, M2 Pro / M2 Max
+- [Ремонт MacBook Pro 14" M2 Pro/Max 2023 у Харкові](https://www.ilabservice.top/remont-macbook-pro-14-m2-pro-max-2023) — 2023, M2 Pro / M2 Max
+- [Ремонт MacBook Pro 13" M2 2022 у Харкові](https://www.ilabservice.top/remont-macbook-pro-13-m2-2022) — 2022, M2
+- [Ремонт MacBook Pro 16" M1 Pro/Max 2021 у Харкові](https://www.ilabservice.top/remont-macbook-pro-16-m1-pro-max-2021) — 2021, M1 Pro / M1 Max
+- [Ремонт MacBook Pro 14" M1 Pro/Max 2021 у Харкові](https://www.ilabservice.top/remont-macbook-pro-14-m1-pro-max-2021) — 2021, M1 Pro / M1 Max
+- [Ремонт MacBook Pro 13" M1 2020 у Харкові](https://www.ilabservice.top/remont-macbook-pro-13-m1-2020) — 2020, M1
+- [Ремонт MacBook Pro 13" 2020 — 2 ports Thunderbolt 3 у Харкові](https://www.ilabservice.top/remont-macbook-pro-13-2020-2-tb3) — 2020, Intel Core i5
+- [Ремонт MacBook Pro 13" 2020 — 4 ports Thunderbolt 3 у Харкові](https://www.ilabservice.top/remont-macbook-pro-13-2020-4-tb3) — 2020, Intel Core i5/i7
+- [Ремонт MacBook Pro 16" 2019 у Харкові](https://www.ilabservice.top/remont-macbook-pro-16-2019) — 2019, Intel Core i7/i9
+- [Ремонт MacBook Pro 15" 2019 у Харкові](https://www.ilabservice.top/remont-macbook-pro-15-2019) — 2019, Intel Core i7/i9
+- [Ремонт MacBook Pro 13" 2019 — 2 ports Thunderbolt 3 у Харкові](https://www.ilabservice.top/remont-macbook-pro-13-2019-2-tb3) — 2019, Intel Core i5
+- [Ремонт MacBook Pro 13" 2019 — 4 ports Thunderbolt 3 у Харкові](https://www.ilabservice.top/remont-macbook-pro-13-2019-4-tb3) — 2019, Intel Core i5/i7
+- [Ремонт MacBook Pro 15" 2018 у Харкові](https://www.ilabservice.top/remont-macbook-pro-15-2018) — 2018, Intel Core i7/i9
+- [Ремонт MacBook Pro 13" 2018 — 4 ports Thunderbolt 3 у Харкові](https://www.ilabservice.top/remont-macbook-pro-13-2018-4-tb3) — 2018, Intel Core i5/i7
+- [Ремонт MacBook Pro 15" 2017 у Харкові](https://www.ilabservice.top/remont-macbook-pro-15-2017) — 2017, Intel Core i7
+- [Ремонт MacBook Pro 13" 2017 — 4 ports Thunderbolt 3 у Харкові](https://www.ilabservice.top/remont-macbook-pro-13-2017-4-tb3) — 2017, Intel Core i5/i7
+- [Ремонт MacBook Pro 13" 2017 — 2 ports Thunderbolt 3 у Харкові](https://www.ilabservice.top/remont-macbook-pro-13-2017-2-tb3) — 2017, Intel Core i5
+- [Ремонт MacBook Pro 15" 2016 у Харкові](https://www.ilabservice.top/remont-macbook-pro-15-2016) — 2016, Intel Core i7
+- [Ремонт MacBook Pro 13" 2016 — 4 ports Thunderbolt 3 у Харкові](https://www.ilabservice.top/remont-macbook-pro-13-2016-4-tb3) — 2016, Intel Core i5/i7
+- [Ремонт MacBook Pro 13" 2016 — 2 ports Thunderbolt 3 у Харкові](https://www.ilabservice.top/remont-macbook-pro-13-2016-2-tb3) — 2016, Intel Core i5
+- [Ремонт MacBook Pro Retina 15" 2015 у Харкові](https://www.ilabservice.top/remont-macbook-pro-retina-15-2015) — 2015, Intel Core i7
+- [Ремонт MacBook Pro Retina 13" 2015 у Харкові](https://www.ilabservice.top/remont-macbook-pro-retina-13-2015) — 2015, Intel Core i5
+- [Ремонт MacBook Pro Retina 15" Mid 2014 у Харкові](https://www.ilabservice.top/remont-macbook-pro-retina-15-mid-2014) — 2014, Intel Core i7
+- [Ремонт MacBook Pro Retina 13" Mid 2014 у Харкові](https://www.ilabservice.top/remont-macbook-pro-retina-13-mid-2014) — 2014, Intel Core i5
+- [Ремонт MacBook Pro Retina 15" Late 2013 у Харкові](https://www.ilabservice.top/remont-macbook-pro-retina-15-late-2013) — 2013, Intel Core i7
+- [Ремонт MacBook Pro Retina 13" Late 2013 у Харкові](https://www.ilabservice.top/remont-macbook-pro-retina-13-late-2013) — 2013, Intel Core i5
+- [Ремонт MacBook Pro Retina 15" Early 2013 у Харкові](https://www.ilabservice.top/remont-macbook-pro-retina-15-early-2013) — 2013, Intel Core i7
+- [Ремонт MacBook Pro Retina 13" Early 2013 у Харкові](https://www.ilabservice.top/remont-macbook-pro-retina-13-early-2013) — 2013, Intel Core i5
+- [Ремонт MacBook Pro Retina 15" Mid 2012 у Харкові](https://www.ilabservice.top/remont-macbook-pro-retina-15-mid-2012) — 2012, Intel Core i7
+- [Ремонт MacBook Pro 15" Mid 2012 у Харкові](https://www.ilabservice.top/remont-macbook-pro-15-mid-2012) — 2012, Intel Core i7
+- [Ремонт MacBook Pro 13" Mid 2012 у Харкові](https://www.ilabservice.top/remont-macbook-pro-13-mid-2012) — 2012, Intel Core i5
+---
+iLAB — незалежний сервісний центр. Ми не є авторизованим сервісним партнером Apple Inc. Apple, iPhone, iPad, Apple Watch, MacBook — торговельні марки Apple Inc.
+Оновлено: 2026-09-24
