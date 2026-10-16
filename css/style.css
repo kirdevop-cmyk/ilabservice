@@ -394,6 +394,12 @@ p:last-child { margin-bottom: 0; }
   50%      { opacity: 1;   transform: scale(1.05); }
 }
 
+/* Поки відвідувач нічого не зробив, сцена стоїть: не заважаємо першому малюванню.
+   .is-live вмикає contour.js після першого руху, дотику чи прокрутки. */
+.js .hero:not(.is-live) .sc-pulse,
+.js .hero:not(.is-live) .sc-float,
+.js .hero:not(.is-live) .sc-glow { animation-play-state: paused; }
+
 @media (prefers-reduced-motion: reduce) {
   .sc-pulse { animation: none; opacity: .5; stroke-dasharray: none; stroke-dashoffset: 0; stroke-width: 1.2; }
   .sc-float, .sc-glow { animation: none; }

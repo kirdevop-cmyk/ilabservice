@@ -101,12 +101,26 @@
   function start() { if (!raf) raf = requestAnimationFrame(loop); }
   function stop() { if (raf) { cancelAnimationFrame(raf); raf = null; } }
 
-  var ready = false;
+  // ready — полотно має розмір; live — відвідувач уже щось зробив на сторінці.
+  // До першої дії показуємо один статичний кадр: безперервна анімація
+  // під час завантаження лише відтягує перше малювання.
+  var ready = false, live = false, inView = true;
+  var hero = cv.closest('.hero');
+  var wake = ['pointermove', 'pointerdown', 'touchstart', 'wheel', 'scroll', 'keydown'];
+
+  function goLive() {
+    if (live) return;
+    live = true;
+    if (hero) hero.classList.add('is-live');
+    wake.forEach(function (ev) { window.removeEventListener(ev, goLive); });
+    if (ready && inView && !document.hidden) start();
+  }
+  wake.forEach(function (ev) { window.addEventListener(ev, goLive, { passive: true }); });
 
   if ('ResizeObserver' in window) {
     new ResizeObserver(function (es) {
       size(es[0].contentRect); stroke = null; draw();
-      if (!ready) { ready = true; start(); }
+      if (!ready) { ready = true; if (live && inView) start(); }
     }).observe(cv);
   } else {
     window.addEventListener('resize', function () {
@@ -122,20 +136,21 @@
 
   // Не крутимо анімацію, коли герой поза екраном або вкладка прихована
   document.addEventListener('visibilitychange', function () {
-    if (!ready) return;
+    if (!ready || !live || !inView) return;
     document.hidden ? stop() : start();
   });
 
   if ('IntersectionObserver' in window) {
     new IntersectionObserver(function (es) {
-      if (!ready) return;
-      es[0].isIntersecting ? start() : stop();
+      inView = es[0].isIntersecting;
+      if (!ready || !live) return;
+      inView ? start() : stop();
     }, { threshold: 0 }).observe(cv);
   }
 
   if (!('ResizeObserver' in window)) {
     size();
+    draw();
     ready = true;
-    start();
   }
 })();
