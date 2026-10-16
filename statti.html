@@ -25,11 +25,9 @@
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;400;500&family=Onest:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;400;500&family=Onest:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
-<link rel="stylesheet" href="/css/style.css?v=27f8a73d">
+<link rel="preload" href="/fonts/unbounded-cyrillic.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/onest-cyrillic.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/css/style.css?v=25dab2f6">
 <script src="https://analytics.ahrefs.com/analytics.js" data-key="JNuy2rtEFFGukgX7i5tO9g" async></script>
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.ilabservice.top/statti#webpage","url":"https://www.ilabservice.top/statti","name":"Статті про ремонт техніки Apple — iLAB","inLanguage":"uk","isPartOf":{"@id":"https://www.ilabservice.top/#website"},"speakable":{"@type":"SpeakableSpecification","cssSelector":["h1",".answer"]}},{"@type":["LocalBusiness","ComputerRepairService"],"@id":"https://www.ilabservice.top/#business","name":"iLAB","description":"Незалежний сервісний центр з ремонту iPhone, iPad, Apple Watch і MacBook у Харкові.","url":"https://www.ilabservice.top/","telephone":"+380 66 166 16 54","image":"https://www.ilabservice.top/og.png","priceRange":"₴₴","address":{"@type":"PostalAddress","streetAddress":"майдан Захисників України, 4","addressLocality":"Харків","addressRegion":"Харківська область","postalCode":"61000","addressCountry":"UA"},"areaServed":{"@type":"City","name":"Харків"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["https://schema.org/Monday","https://schema.org/Tuesday","https://schema.org/Wednesday","https://schema.org/Thursday","https://schema.org/Friday"],"opens":"10:00","closes":"19:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["https://schema.org/Saturday"],"opens":"10:00","closes":"17:00"}],"geo":{"@type":"GeoCoordinates","latitude":49.987267,"longitude":36.261},"hasMap":"https://www.google.com/maps/search/?api=1&query=49.987267,36.261","alternateName":"iLab Service Apple","sameAs":["https://t.me/ilabapple"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна","item":"https://www.ilabservice.top/"},{"@type":"ListItem","position":2,"name":"Статті","item":"https://www.ilabservice.top/statti"}]},{"@type":"ItemList","name":"Статті про ремонт техніки Apple","numberOfItems":3,"itemListElement":[{"@type":"ListItem","position":1,"name":"Скільки коштує замінити акумулятор на айфоні у Харкові","url":"https://www.ilabservice.top/statti/zamina-akumulyatora-ayfona-tsina"},{"@type":"ListItem","position":2,"name":"Оригінал чи аналог: який дисплей ставити на айфон","url":"https://www.ilabservice.top/statti/oryhinal-chy-analoh-dysplei-ayfona"},{"@type":"ListItem","position":3,"name":"Айфон упав у воду: що робити в першу годину","url":"https://www.ilabservice.top/statti/ayfon-upav-u-vodu-shcho-robyty"}]}]}</script>
 </head>
@@ -70,7 +68,7 @@
     <div class="hdr__cta">
       <a class="lang" href="/ru/stati" hreflang="ru"
      lang="ru" aria-label="Перейти на російську">RU</a>
-      <a class="hdr__tel" href="tel:+380661661654"><svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 3h4l2 5-3 2a12 12 0 0 0 6 6l2-3 5 2v4a1 1 0 0 1-1 1A17 17 0 0 1 4 4a1 1 0 0 1 1-1Z"/></svg><span>066 166 16 54</span></a>
+      <a class="hdr__tel" href="tel:+380661661654" aria-label="Зателефонувати 066 166 16 54"><svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 3h4l2 5-3 2a12 12 0 0 0 6 6l2-3 5 2v4a1 1 0 0 1-1 1A17 17 0 0 1 4 4a1 1 0 0 1 1-1Z"/></svg><span>066 166 16 54</span></a>
       <a class="btn btn--iris btn--sm" href="/#zapys">Записатися</a>
       <button class="burger" id="burger" type="button" aria-label="Меню" aria-expanded="false" aria-controls="drawer"><svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true"><path d="M3 7h18M3 12h18M3 17h18"/></svg></button>
     </div>
@@ -224,16 +222,16 @@
         <p>Ремонт техніки Apple у Харкові: від 30 хвилин, гарантія 6 місяців, ціна відома до початку робіт.</p>
       </div>
       <div>
-        <h4>Пристрої</h4>
+        <p class="ftr__h">Пристрої</p>
         <ul><li><a href="/remont-iphone">Ремонт iPhone</a></li><li><a href="/remont-ipad">Ремонт iPad</a></li><li><a href="/remont-apple-watch">Ремонт Apple Watch</a></li><li><a href="/remont-macbook">Ремонт MacBook</a></li><li><a href="/remont-samsung">Ремонт Samsung</a></li>
         <li><a href="/katalog">Усі моделі</a></li></ul>
       </div>
       <div>
-        <h4>Послуги</h4>
+        <p class="ftr__h">Послуги</p>
         <ul><li><a href="/zamina-dyspleya-iphone">Заміна дисплея iPhone</a></li><li><a href="/zamina-akumulyatora-iphone">Заміна акумулятора iPhone</a></li><li><a href="/remont-rozyemu-zaryadky-iphone">Ремонт роз’єму зарядки iPhone</a></li><li><a href="/zamina-korpusu-iphone">Заміна корпусу iPhone</a></li><li><a href="/remont-pislya-vody-iphone">Ремонт після потрапляння вологи iPhone</a></li></ul>
       </div>
       <div>
-        <h4>Контакти</h4>
+        <p class="ftr__h">Контакти</p>
         <ul>
           <li><a href="tel:+380661661654">066 166 16 54</a></li>
           <li><a href="https://t.me/ilabapple" rel="noopener">Telegram</a></li>
@@ -261,6 +259,6 @@
   </a>
 </div>
 <script src="/js/catalog.js?v=b27ecf00" defer></script>
-<script src="/js/app.js?v=3b7abf65" defer></script>
+<script src="/js/app.js?v=532ecb87" defer></script>
 </body>
 </html>

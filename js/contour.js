@@ -19,9 +19,10 @@
   var cx = 0.5, cy = 0.42;      // згладжена позиція
   var LINES, STEP;
 
-  function size() {
+  // r — розмір полотна; з ResizeObserver він приходить готовим, без примусового layout
+  function size(r) {
     dpr = Math.min(window.devicePixelRatio || 1, 2);
-    var r = cv.getBoundingClientRect();
+    r = r || cv.getBoundingClientRect();
     W = Math.max(320, r.width);
     H = Math.max(320, r.height);
     cv.width = Math.round(W * dpr);
@@ -100,9 +101,18 @@
   function start() { if (!raf) raf = requestAnimationFrame(loop); }
   function stop() { if (raf) { cancelAnimationFrame(raf); raf = null; } }
 
-  window.addEventListener('resize', function () {
-    size(); stroke = null; draw();
-  }, { passive: true });
+  var ready = false;
+
+  if ('ResizeObserver' in window) {
+    new ResizeObserver(function (es) {
+      size(es[0].contentRect); stroke = null; draw();
+      if (!ready) { ready = true; start(); }
+    }).observe(cv);
+  } else {
+    window.addEventListener('resize', function () {
+      size(); stroke = null; draw();
+    }, { passive: true });
+  }
 
   window.addEventListener('pointermove', function (e) {
     var r = cv.getBoundingClientRect();
@@ -112,15 +122,20 @@
 
   // Не крутимо анімацію, коли герой поза екраном або вкладка прихована
   document.addEventListener('visibilitychange', function () {
+    if (!ready) return;
     document.hidden ? stop() : start();
   });
 
   if ('IntersectionObserver' in window) {
     new IntersectionObserver(function (es) {
+      if (!ready) return;
       es[0].isIntersecting ? start() : stop();
     }, { threshold: 0 }).observe(cv);
   }
 
-  size();
-  start();
+  if (!('ResizeObserver' in window)) {
+    size();
+    ready = true;
+    start();
+  }
 })();

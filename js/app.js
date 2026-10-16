@@ -64,7 +64,8 @@
   var hdr = $('.hdr');
   if (hdr) {
     var onScroll = function () { hdr.classList.toggle('is-stuck', window.scrollY > 8); };
-    onScroll();
+    // Перший замір — у наступному кадрі, щоб не форсувати layout під час завантаження
+    requestAnimationFrame(onScroll);
     window.addEventListener('scroll', onScroll, { passive: true });
   }
 
@@ -74,7 +75,7 @@
   var dock = $('#dock');
   if (dock) {
     var dockOn = function () { dock.classList.toggle('is-on', window.scrollY > 420); };
-    dockOn();
+    requestAnimationFrame(dockOn);
     window.addEventListener('scroll', dockOn, { passive: true });
   }
 
