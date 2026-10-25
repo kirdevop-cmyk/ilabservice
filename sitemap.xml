@@ -1757,6 +1757,15 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.ilabservice.top/statti/makbuk-zalyly-ridynoyu-shcho-robyty</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://www.ilabservice.top/statti/makbuk-zalyly-ridynoyu-shcho-robyty"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.ilabservice.top/ru/stati/makbuk-zalili-zhidkostyu-chto-delat"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ilabservice.top/statti/makbuk-zalyly-ridynoyu-shcho-robyty"/>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.ilabservice.top/remont-apple-kharkivska-oblast</loc>
     <xhtml:link rel="alternate" hreflang="uk" href="https://www.ilabservice.top/remont-apple-kharkivska-oblast"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://www.ilabservice.top/ru/remont-apple-harkovskaya-oblast"/>
@@ -3517,6 +3526,15 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://www.ilabservice.top/ru/stati/ayfon-upal-v-vodu-chto-delat"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ilabservice.top/statti/ayfon-upav-u-vodu-shcho-robyty"/>
     <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ilabservice.top/ru/stati/makbuk-zalili-zhidkostyu-chto-delat</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://www.ilabservice.top/statti/makbuk-zalyly-ridynoyu-shcho-robyty"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.ilabservice.top/ru/stati/makbuk-zalili-zhidkostyu-chto-delat"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.ilabservice.top/statti/makbuk-zalyly-ridynoyu-shcho-robyty"/>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
