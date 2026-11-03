@@ -1292,3 +1292,39 @@ a.contact-row:hover { background: var(--raise); }
 .why p strong { color: var(--chalk); font-weight: 600; }
 .why a { color: var(--iris-a); }
 .why a:hover { text-decoration: underline; }
+
+/* ── Швидкий звʼязок на головних ───────────────────────────────
+   У герої поряд із номером стоїть кнопка Telegram, а на телефоні
+   внизу екрана весь час тримається смуга «Подзвонити / Telegram»:
+   людина, яка прийшла по ремонт, бачить зв'язок одразу, без
+   прокручування. Плаваюча «док»-пара на цих сторінках не потрібна. */
+.btn--tg {
+  display: inline-flex; align-items: center; gap: .6rem;
+  padding: .86rem 1.5rem; border-radius: 999px;
+  background: #229ED9; color: #fff; font-weight: 600; text-decoration: none;
+  box-shadow: 0 12px 30px -12px rgba(34,158,217,.75);
+  transition: background-color var(--t), transform var(--t);
+}
+.btn--tg .ico { width: 20px; height: 20px; flex: none; }
+.btn--tg:hover { background: #1b8bc2; transform: translateY(-2px); }
+
+.quickbar { display: none; }
+@media (max-width: 720px) {
+  .has-quickbar { padding-bottom: 76px; }
+  .has-quickbar .dock { display: none; }
+  .quickbar {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 85;
+    display: flex; gap: .6rem; padding: .6rem .8rem calc(.6rem + env(safe-area-inset-bottom));
+    background: rgba(7,8,10,.92); backdrop-filter: blur(12px);
+    border-top: 1px solid var(--edge);
+  }
+  .quickbar__btn {
+    flex: 1; display: inline-flex; align-items: center; justify-content: center; gap: .55rem;
+    min-height: 52px; border-radius: 14px; font-weight: 700; font-size: 1.02rem;
+    text-decoration: none;
+  }
+  .quickbar__btn .ico { width: 22px; height: 22px; flex: none; }
+  .quickbar__btn--tel { background: var(--chalk); color: var(--void); }
+  .quickbar__btn--tg { background: #229ED9; color: #fff; }
+  .hero__cta .btn--tg { display: none; }
+}
