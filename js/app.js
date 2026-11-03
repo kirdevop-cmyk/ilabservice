@@ -529,6 +529,20 @@
     }
   }
 
+  /* ── Аналітика: дзвінки, Telegram, заявки ──────────────── */
+  function track(name, params) {
+    if (typeof window.gtag === 'function') window.gtag('event', name, params || {});
+  }
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a[href]');
+    if (!a) return;
+    var h = a.getAttribute('href') || '';
+    var where = { link_url: h, page_path: location.pathname };
+    if (h.indexOf('tel:') === 0) track('phone_click', where);
+    else if (h.indexOf('t.me/') > -1 || h.indexOf('telegram.me/') > -1) track('telegram_click', where);
+    else if (h.indexOf('mailto:') === 0) track('email_click', where);
+  });
+
   /* ── Форма запису ──────────────────────────────────────── */
   $$('form[data-book]').forEach(function (form) {
     var status = $('.form-status', form);
@@ -574,6 +588,7 @@
         .then(function (d) {
           if (!d || !d.ok) return Promise.reject('bad');
           say(D.formSentApi, true);
+          track('generate_lead', { method: 'form' });
           form.reset();
         })
         .catch(function () { fallback(); })
@@ -581,6 +596,7 @@
 
       function fallback() {
         if (tg) {
+          track('generate_lead', { method: 'telegram_form' });
           window.open(tg + '?text=' + encodeURIComponent(text), '_blank', 'noopener');
           say(D.formSentTg, true);
         } else {
